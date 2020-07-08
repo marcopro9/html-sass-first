@@ -1,0 +1,14 @@
+$colore_blu: blue;
+$colore_bianco: white;
+$colore_light_blue:lightblue;
+
+
+body{
+  background-color: $colore_light_blue;
+}
+p{
+  color: $colore_blu;
+}
+h2{
+  color: $colore_bianco;
+}
